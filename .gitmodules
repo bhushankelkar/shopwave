@@ -1,0 +1,3 @@
+[submodule "shopwave-monolith"]
+	path = shopwave-monolith
+	url = https://github.com/bhushankelkar/shopwave-monolith.git
